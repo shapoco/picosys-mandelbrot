@@ -1,5 +1,9 @@
 # Mandelbrot Viewer for PICOSYSTEM
 
+## Download Binary
+
+https://drive.google.com/file/d/1iCvwUEkWxYbKTSbH08ddn1RtGgoKRNxY/view?usp=sharing
+
 ## How to build
 
 Build has been verified with WSL2 on Windows 11.
