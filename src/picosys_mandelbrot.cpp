@@ -1,5 +1,4 @@
 #include "picosystem.hpp"
-#include "fixed_array_stack.hpp"
 #include "tiny_mandelbrot.hpp"
 
 #define BENCHMARK_A (0xffd8849c)
@@ -8,7 +7,6 @@
 #define SKIP_STABLE_RECT (1)
 
 using namespace picosystem;
-//using namespace tinymandelbrot;
 
 static constexpr int W = tinymandelbrot::W;
 static constexpr int H = tinymandelbrot::H;
