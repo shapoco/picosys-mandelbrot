@@ -1,5 +1,7 @@
 # Mandelbrot Viewer for PICOSYSTEM
 
+https://user-images.githubusercontent.com/40152459/166137489-871e3274-8d9b-48de-a276-9769f16b11cb.mp4
+
 ## Download Binary
 
 https://drive.google.com/file/d/1iCvwUEkWxYbKTSbH08ddn1RtGgoKRNxY/view?usp=sharing
